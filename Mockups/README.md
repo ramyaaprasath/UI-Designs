@@ -1,4 +1,4 @@
-These trail mockups include
+This trail mockup includes
 - iPhone SE
 - iPhone 11 Pro
 - iPhone 12
