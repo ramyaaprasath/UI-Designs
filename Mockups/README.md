@@ -1,4 +1,4 @@
-This trail mockup includes
+This trial mockup includes
 - iPhone SE
 - iPhone 11 Pro
 - iPhone 12
